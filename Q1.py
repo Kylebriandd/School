@@ -1,12 +1,6 @@
-#Kyle Briand
-#4/9/25
-#Ask to input two numbers. Display the two numbers with the least of the two numbers first.
 
-num1 = float(input("Give me a number: "))
-num2 = float(input("Give me another: "))
+#author: Kyle Briand
+#date: 01/09/2025
 
-if (num1>num2):
-    print(num1,num2,)
-
-else:
-    print(num2,num1,)
+first_name = input("Enter your first name: ")
+print("Hello",first_name,)

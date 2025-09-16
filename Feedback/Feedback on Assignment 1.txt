@@ -1,0 +1,17 @@
+Q1 - Q7 and Q9 Well done
+
+----------------------------------
+Q8 you dont need to wrap the hours, minutes and seconds in int since it is the result of an int by an int
+
+----------------------------------
+Activity in Book
+Q6 the formula for the area of a circle it is 3.14 * radius ** 2 (double ** makes the number that follows an exponent)
+
+----------------------------------
+Q7 Well done
+
+----------------------------------
+Q8 feet = inches // 12 and remainder = inches % 12 is the height feet'' remainder'
+
+----------------------------------
+Q9 , 10 and 11 missing please upload

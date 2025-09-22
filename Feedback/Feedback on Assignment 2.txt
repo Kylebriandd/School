@@ -1,0 +1,18 @@
+Q1 the code is correct however it is supposed to print the lowest first you have it displaying the largest. 
+Run your code and make sure the output is what the question asked.
+
+------------------------------------
+Q2 same issue, it prints than you when its above 20 instead of under and prints too high when its under.
+
+------------------------------------
+Well done on Q3 Q6 Q7 Q8
+
+------------------------------------
+Q4 nice idea using .lower however, the question asks for red, Red and RED to be excepted this is to help practice or in 
+and if statement also instead of using in you can use = e.g. if question == 'red' or question == 'RED' or question = 'Red'
+
+------------------------------------
+Q5 same issues as above.
+
+------------------------------------
+Q9 you are multplying the units by 5 euro instead of 5 cents you need to divide the total by 100 
